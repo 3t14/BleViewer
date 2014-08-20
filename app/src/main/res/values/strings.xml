@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Ble Viewer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_scan_ble">Scan</string>
+    <string name="action_stop_scan">Stop Scan</string>
+    <string name="action_clear_ble">Clear</string>
+
+</resources>
